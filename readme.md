@@ -1,6 +1,4 @@
-# Nuclear Vision - Premium Laptops Landing Page
-
-A stunning, animated landing page for a premium laptop retailer featuring Dell, HP, Alienware, and other top brands.
+# Nuclear Vision - Premium Landing Page
 
 ## Features
 
