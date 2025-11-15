@@ -13,4 +13,4 @@ A stunning, animated landing page for a premium laptop retailer featuring Dell, 
 - 🌊 Particle background system
 - 💫 Smooth scrolling and scroll animations
 
-## File Structure
+
